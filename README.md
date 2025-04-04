@@ -1,2 +1,2 @@
 # sigma-git
-ivan zolo a kiraly
+## első contolás
